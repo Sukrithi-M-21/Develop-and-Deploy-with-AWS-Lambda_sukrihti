@@ -1,1 +1,1 @@
-# Develop-and-Deploy-with-AWS-Lambda_sukrihti
+# Develop-and-Deploy-with-AWS-Lambda_sukrithi
